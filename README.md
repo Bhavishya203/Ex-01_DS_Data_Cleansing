@@ -42,5 +42,9 @@ df.to_csv('Data_set.csv')
 ![image1](https://user-images.githubusercontent.com/94679395/160971670-61955f7c-a2d5-4e5a-865d-e9dd641caef7.jpeg)
 ![image2](https://user-images.githubusercontent.com/94679395/160971692-9a358c38-cbc2-415a-8f52-5c143645bdb0.jpeg)
 
+# RESULT:
+Thus the given data is cleansed and the output is obtained.
+
+
 
 
